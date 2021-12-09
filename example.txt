@@ -1,1 +1,1 @@
-Hi, this is my mobile number: 
+Hi, this is my mobile number: $NUMBER
